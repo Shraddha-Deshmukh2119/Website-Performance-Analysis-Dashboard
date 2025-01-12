@@ -6,11 +6,18 @@ Welcome to the **Website Performance Analysis Dashboard** repository! 🚀 This 
 This dashboard is designed to analyze and visualize key metrics that reflect the health, speed, and overall performance of a website. By presenting critical data points in an intuitive and aesthetically pleasing manner, it empowers stakeholders to make informed decisions and optimize user experiences.
 
 ## ✨ Features
-- **Performance Metrics**: Analyze page load times, bounce rates, and session durations.
-- **Traffic Analysis**: Gain insights into visitor behavior, traffic sources, and peak usage times.
-- **Device and Browser Analytics**: Understand user preferences by device type and browser.
-- **Error Reporting**: Track HTTP errors and identify bottlenecks impacting performance.
-- **Trend Analysis**: Visualize trends over time to identify improvements or areas of concern.
+### Key Metrics at a Glance
+- **Average Page Views**: Gain insights into user engagement with an average of **4.96 page views** per session.
+- **Average Conversion Rate**: Analyze the effectiveness of website content with a conversion rate of **5%**.
+- **Average Bounce Rate**: Identify improvement areas with a bounce rate of **50%**.
+- **Average Session Duration**: Understand user behavior with an average session duration of **293.71 seconds**.
+
+### In-Depth Analysis
+- **Conversion Rate by Visitor Type**: Compare performance between new and returning visitors. 
+- **Bounce Rate by Visitor Type**: Monitor bounce rate trends for targeted optimization.
+- **Conversion Rate by Traffic Source**: Discover the effectiveness of traffic channels like Direct, Organic, Social Media, and Referral.
+- **Geographical Insights**: Visualize conversion rates by location for targeted strategies.
+- **Top 100 Customers**: Dive into detailed metrics including page views, session duration, and conversion rates.
 
 ## 🎯 Purpose
 The primary goal of this project is to:
@@ -24,10 +31,10 @@ The primary goal of this project is to:
 - **Key Metrics**: KPIs such as load times, traffic sources, and error rates.
 
 ## 📊 Dashboard Snapshots
-Below are some of the highlights from the dashboard:
-- **Page Load Speed Insights**: Quickly spot pages with slower load times.
-- **Bounce Rate Analysis**: Identify pages with higher bounce rates and potential reasons.
-- **Visitor Trends**: Observe fluctuations in visitor counts and engagement.
+Take a closer look at the dashboard:
+- **Performance Insights**: Quickly identify areas needing attention through intuitive visualizations.
+- **Traffic Analysis**: Explore the most impactful traffic sources and user behaviors.
+- **Engagement Trends**: Visualize metrics to better understand user engagement over time.
 
 ## 🏁 Getting Started
 To explore the dashboard:
